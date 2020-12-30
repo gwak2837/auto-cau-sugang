@@ -1,6 +1,6 @@
-# Auto CAU sugang (Archive)
+# Auto CAU sugang
 
-(수강 신청 사이트 개편으로 archive)
+(수강 신청 사이트 개편으로 deprecated)
 
 중앙대학교 (구) 수강신청 오토핫키 매크로
 
